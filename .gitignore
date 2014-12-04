@@ -4,3 +4,11 @@ pom.xml.releaseBackup
 pom.xml.versionsBackup
 pom.xml.next
 release.properties
+.settings/
+build/
+.project
+.classpath
+.pydevproject
+.svn/
+build.properties
+.factorypath
